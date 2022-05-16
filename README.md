@@ -2,6 +2,11 @@
 First Product Landing Page
 Developed an E-Commerce Website or Product Landing Page.
  You can view this on [E-Commerce Website](https://vgandhi27.github.io/Ecommerce/index.html)
+ <p align="center">"Eating website for fun... nyom nyom nyom"</p>_
+
+<div align="center" style="text-align:center; margin:auto;">
+<img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
+</div>
 
 
 ## Created Different Sections
