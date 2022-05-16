@@ -2,11 +2,6 @@
 First Product Landing Page
 Developed an E-Commerce Website or Product Landing Page.
  You can view this on [E-Commerce Website](https://vgandhi27.github.io/Ecommerce/index.html)
- <p align="center">"Eating website for fun... nyom nyom nyom"</p>_
-
-<div align="center" style="text-align:center; margin:auto;">
-<img align="center" src="https://i.imgur.com/EgCvXyK.png" width="150"/>
-</div>
 
 
 ## Created Different Sections
@@ -20,6 +15,12 @@ Developed an E-Commerce Website or Product Landing Page.
 
 And see more projects on this GitHub profile!
 
+## Contribution
+
+Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
+
+
 ## Contact Me
 
 You can reach me at https://github.com/VGandhi27/vgandhi27.github.io. Feel free to contact me for any Query related to this repository.
+
