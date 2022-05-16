@@ -1,7 +1,7 @@
 # Ecommerce Website
 First Product Landing Page
 Developed an E-Commerce Website or Product Landing Page.
- You can view this on [E-Commerce Website](https://vgandhi27.github.io/Ecommerce/index.html)
+ You can view this on  [E-Commerce Website](https://vgandhi27.github.io/Ecommerce/index.html)
 
 
 ## Created Different Sections
